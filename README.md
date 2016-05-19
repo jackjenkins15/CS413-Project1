@@ -1,2 +1,1 @@
-# CS413-Project1
-Minimalism
+# WELCOME TO MY GITHUB!
